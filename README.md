@@ -10,7 +10,7 @@ This project focuses on analyzing survey data using **Power BI** to uncover mean
 - ✅ **Visualization:** Built interactive charts, graphs, and KPIs for a user-friendly experience.  
 
 ## 📊 Power BI Dashboard  
-(![Dashboard](dashboard_image.png))
+(![Dashboard](Final_Project_BI.pdf))
 
 ### 🔍 Dashboard Preview  
 ![Survey Data Dashboard](INSERT_IMAGE_LINK_OR_FILE)  
