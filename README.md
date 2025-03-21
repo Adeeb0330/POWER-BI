@@ -10,13 +10,11 @@ This project focuses on analyzing survey data using **Power BI** to uncover mean
 - ✅ **Visualization:** Built interactive charts, graphs, and KPIs for a user-friendly experience.  
 
 ## 📊 Power BI Dashboard  
-(![Dashboard](Final_Project_BI.pdf))
-
-### 🔍 Dashboard Preview  
-![Survey Data Dashboard](INSERT_IMAGE_LINK_OR_FILE)  
-
+(![Dashboard](Final_project_BI.pdf))
+ 
 ## 📂 Dataset  
 The dataset consists of survey responses collected from multiple respondents. It includes fields such as **age group, location, preferences, satisfaction levels, and feedback.**  
+📂 **Dataset:** [crime_data.csv](survey_data.csv)  
 
 ## 🛠️ Tools & Technologies  
 - **Power BI** – Data visualization and dashboard creation  
