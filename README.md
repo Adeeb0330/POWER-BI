@@ -11,11 +11,13 @@ This project focuses on analyzing survey data using **Power BI** to uncover mean
 
 ## 📊 Power BI Dashboard  
 (![Dashboard](Final_project_BI.pdf))
+
  
 ## 📂 Dataset  
 The dataset consists of survey responses collected from multiple respondents. It includes fields such as **age group, location, preferences, satisfaction levels, and feedback.**  
 📂 **Dataset:** [survey_data.xlsx](survey_dataset.xlsx)  
-
+- Download dataset by clicking the above link and select raw to start download
+- 
 ## 🛠️ Tools & Technologies  
 - **Power BI** – Data visualization and dashboard creation  
 - **Power Query** – Data transformation and cleansing  
