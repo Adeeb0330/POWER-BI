@@ -11,6 +11,7 @@ This project focuses on analyzing survey data using **Power BI** to uncover mean
 
 ## 📊 Power BI Dashboard  
 (![Dashboard](Final_project_BI.pdf))
+![Image](https://github.com/user-attachments/assets/04449f00-1316-4d4d-a18c-3fde8db50914)
 
  
 ## 📂 Dataset  
